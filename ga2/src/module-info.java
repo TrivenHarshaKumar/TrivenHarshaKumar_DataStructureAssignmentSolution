@@ -1,0 +1,2 @@
+module ga2 {
+}
